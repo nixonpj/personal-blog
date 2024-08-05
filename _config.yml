@@ -22,10 +22,10 @@ title: Nixon - Blog
 email: nixon.pj93@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Hi! I am Nixon. This is my blog.
-baseurl: /blog # the subpath of your site, e.g. /blog
+baseurl: "/personal-blog" # the subpath of your site, e.g. /blog
 url: https://nixonpj.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: nixonj
+github_username:  nixonpj
 
 # Build settings
 theme: minima
