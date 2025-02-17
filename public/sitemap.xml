@@ -11,6 +11,12 @@
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2022-06-11T20:30:40-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/posts/what-it-takes-to-be-swe/</loc>
+    <lastmod>2022-05-10T20:30:40-05:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/hyde-park-review/</loc>
+    <lastmod>2021-07-12T20:30:40-05:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/posts/7-day-trip-khajuraho-orchha/</loc>
     <lastmod>2021-04-20T20:30:40-05:00</lastmod>
   </url><url>
@@ -18,12 +24,6 @@
     <lastmod>2021-04-20T20:30:40-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/disappearance-of-a-home/</loc>
-    <lastmod>2021-02-15T20:30:40-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/hyde-park-review/</loc>
-    <lastmod>2021-02-15T20:30:40-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/what-it-takes-to-be-swe/</loc>
     <lastmod>2021-02-15T20:30:40-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/the-joy-of-cooking/</loc>
@@ -35,7 +35,11 @@
     <loc>http://localhost:1313/posts/why-i-chose-mscapp/</loc>
     <lastmod>2019-10-02T20:30:40-05:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/about/</loc>
+  </url><url>
     <loc>http://localhost:1313/categories/</loc>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

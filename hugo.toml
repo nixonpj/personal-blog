@@ -1,4 +1,22 @@
-theme = "ananke"
+theme = "mainroad"
 baseURL = 'https://nixonjoshy.com/'
 languageCode = 'en-us'
 title = "Nixon's Blog"
+
+[params]
+
+[menu]
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 2
+
+[pagination]
+pagerSize = 10
+recent_posts_number = 10
+paginate = 10
