@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nixon&#39;s Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Nixon&#39;s Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 02 Oct 2020 20:30:40 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why I Chose MSCAPP</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Fri, 02 Oct 2020 20:30:40 -0500</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;After graduating, I worked for over four years with non-profits, local governments, and state departments in India. The experience was enriching and exhilarating enough that I knew I wanted to continue in the same domain for the foreseeable future. Public Policy is a nebulous field—I didn’t know I was a part of it (until it was too late). As I explored possible education options, I received plenty of advice and guidance from colleagues and even strangers. Here, I want to pass on some of that advice and explain why I opted for the &lt;a href=&#34;https://capp.uchicago.edu/&#34;&gt;MSCAPP (MS in Computational Analysis and Public Policy)&lt;/a&gt; program—and why you might want to consider it too.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
