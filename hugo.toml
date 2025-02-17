@@ -1,4 +1,4 @@
-theme = "mainroad"
+theme = "ananke"
 baseURL = 'https://nixonjoshy.com/'
 languageCode = 'en-us'
 title = "Nixon's Blog"

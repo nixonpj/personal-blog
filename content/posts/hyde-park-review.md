@@ -56,7 +56,7 @@ I had a very tight budget and hence had to minimize my rent and housing costs. F
 
 Despite considerable public opinion against living south of Midway, I had a great time on 61st. The rent was great and with bikes we could always access any other part of Hyde Park with ease. I never felt unsafe at any point in these 2 years but always maintained a basic level of awareness while out at night along with the other essential precautions mentioned above.
 
-![Hyde Park Apartment Screenshot](/assets/hyde-park-map.png)
+![Hyde Park Apartment Screenshot](/images/hyde-park-map.png)
 
 #### Personal Recommendations
 

@@ -8,7 +8,7 @@ This was the most unusual of years for us all. Immersed in graduate studies, I w
 
 While in India I was discussing with my friend Simren about a suitable place where we could travel to for a break. While Goa was the customary choice given the season and our strong desire to relax on a sunny beach, we wanted to visit an unexplored destination which would also be substantially less crowded. We also wanted to hire a car so that we could avoid public transport as well as cover a lot more places. We’d already covered a lot of Himalayan hill-stations and towns in Rajasthan and so ended up settling on Madhya Pradesh as our destination.
 
-![Screenshot of travel plan](/assets/roadtrip-route.png)
+![Screenshot of travel plan](/images/roadtrip-route.png)
 
 Given the 7 days available to us to travel and keeping a reasonable driving schedule in mind, we charted out a route we could follow keeping some room for improvisation. Our focus was the medieval historic settlement of Orchha, the temple town Khajuraho and Panna National Park. Along this route we would pass through Agra, Gwalior and Jhansi, towns we aimed to explore briefly. Chanderi was also on our mind but we kept it as an optional backup.
 
@@ -32,9 +32,9 @@ We booked a Datsun Redigo for ₹1800/day from Rentrides, a local tour agency. T
 
 We woke up by 5 and started driving by 6. A punctual start to our trip. We stopped briefly on the Yamuna expressway to use the restroom but otherwise continued driving all the way until we were well past Agra, when we stopped at a Dhaba for a late breakfast. Some delicious milky tea, Aloo Paranthas and Chole followed. We continued to drive and passed through some scenic Chambal ravines around Morena. We had our next stop at a Barista at the end of Gwalior. We’d been driving for 6 hours and I had a few espresso shots here to prep myself for the last leg of our journey. We finally reached Orchha by around 5:15 in the evening. It had been a comfortable drive for the most part with excellent roads. Our hotel at Orchha, Amar Mahal, was beautifully done with a very Rajasthani architecture – elaborate domes, intricate wall paintings and rustic wooden furniture. We settled into our room and put our feet up for the day.
 
-![WhatsApp Image 2021-01-03 at 10.47.38 AM](/assets/orchha-hotel-1.jpeg)  
-![WhatsApp Image 2021-01-03 at 10.47.39 AM](/assets/orchha-hotel-2.jpeg)  
-![WhatsApp Image 2021-01-03 at 10.47.40 AM](/assets/orchha-hotel-4.jpeg)
+![WhatsApp Image 2021-01-03 at 10.47.38 AM](/images/orchha-hotel-1.jpeg)  
+![WhatsApp Image 2021-01-03 at 10.47.39 AM](/images/orchha-hotel-2.jpeg)  
+![WhatsApp Image 2021-01-03 at 10.47.40 AM](/images/orchha-hotel-4.jpeg)
 *Amar Mahal (Clockwise from top left): Our Room, Courtyard in front of the room, Another Courtyard*
 
 #### Day 2
@@ -47,9 +47,9 @@ We decided to skip Chanderi which would have meant 5 hours of driving and instea
 
 After sunset we made our way to the locally renowned Ramraja temple which sits in the shadows of the enormous Chaturbhuj temple. We observed the evening ceremony and had the prasad before we had a final look at the Chaturbhuj temple before retiring for the night.
 
-![WhatsApp Image 2021-01-03 at 10.52.34 AM](/assets/gwalior-fort.jpeg)  
-![WhatsApp Image 2021-01-03 at 10.52.35 AM](/assets/gwalior-cannon.jpeg)  
-![WhatsApp Image 2021-01-03 at 10.52.33 AM](/assets/orchha-fort.jpeg)
+![WhatsApp Image 2021-01-03 at 10.52.34 AM](/images/gwalior-fort.jpeg)  
+![WhatsApp Image 2021-01-03 at 10.52.35 AM](/images/gwalior-cannon.jpeg)  
+![WhatsApp Image 2021-01-03 at 10.52.33 AM](/images/orchha-fort.jpeg)
 *Clockwise from top left: Gwalior Fort from a rampart, Bhavani Cannon at Gwalior Fort, Jahangir Mahal at Orchha*
 
 #### Day 4
@@ -58,7 +58,7 @@ We had another great breakfast at Amar Mahal before bidding a sad farewell to Or
 
 At night we had a splendid local dinner by the fireside. The food at this resort somehow managed to top the delicious food I was having at Amar Mahal in Orchha. It was cooked simply and with hand-ground spices. The cook took his time as it was a small resort with few guests and hence, we knew every meal was freshly prepared only for us. We also booked a private safari for Panna National Park for the next day, something we had mistakenly overlooked in our planning and had almost paid the price for if it wasn’t for some last minute maneuvering to obtain permits.
 
-![WhatsApp Image 2021-01-03 at 10.55.16 AM](/assets/panna-river-sunset.jpeg)
+![WhatsApp Image 2021-01-03 at 10.55.16 AM](/images/panna-river-sunset.jpeg)
 *By the Riverside at Greetoe, Panna*
 
 #### Day 5
@@ -69,8 +69,8 @@ We tracked the leopard for some more time before we departed to find another tig
 
 We returned to our resort by around noon not knowing how the time passed. The hours seemed like minutes while tracking the big cats and I envied the forest rangers and officers whose jobs seemed like an absolute delight to me.
 
-![WhatsApp Image 2021-01-03 at 10.55.20 AM](/assets/panna-deer.jpeg)  
-![WhatsApp Image 2021-01-03 at 10.55.17 AM](/assets/panna-deer-2.jpeg)
+![WhatsApp Image 2021-01-03 at 10.55.20 AM](/images/panna-deer.jpeg)  
+![WhatsApp Image 2021-01-03 at 10.55.17 AM](/images/panna-deer-2.jpeg)
 *Safari into Panna National Park*
 
 After having lunch we proceeded to Khajuraho by around 2. The next three hours we were accompanied by our guide who immersed us into the medieval Chandela kingdom and the history of the temple they built. The temples completely live up to the hype. The stone sculptures are splendid and show the people and events of the contemporary society. Like any other ruler, it shows the great and hides the dark side. Love, warfare and day-to-day events are shown with great taste and an unrestrained artistic freedom on these walls.
@@ -79,9 +79,9 @@ Our guide was a local, well-to-do gentleman who was very versed with local and n
 
 Since we had our own vehicle, we were able to explore the western as well as the eastern and southern sections. The western section of temples are the main ones and occupied the bulk of our time. The eastern ones consist mainly of Jain temples which have a completely different architectural design. The southern temple is similar to the western section and can be skipped if hard pressed for time. After spending three hours roaming around the temples, we ended the day with the Sound and Light show which by now seemed repetitive given how thorough our guide was with his narration. We reached our resort, a 40-minute drive, late in the night and exhausted, I hit the bed almost instantly.
 
-![WhatsApp Image 2021-01-03 at 10.55.23 AM](/assets/khajuraho-temple.jpeg)
-![WhatsApp Image 2021-01-03 at 10.55.25 AM](/assets/khajuraho-temple-2.jpeg)
-![WhatsApp Image 2021-01-03 at 10.55.24 AM](/assets/khajuraho-temple-3.jpeg)
+![WhatsApp Image 2021-01-03 at 10.55.23 AM](/images/khajuraho-temple.jpeg)
+![WhatsApp Image 2021-01-03 at 10.55.25 AM](/images/khajuraho-temple-2.jpeg)
+![WhatsApp Image 2021-01-03 at 10.55.24 AM](/images/khajuraho-temple-3.jpeg)
 *Stills from Khajuraho Temples*
 
 #### Day 6
