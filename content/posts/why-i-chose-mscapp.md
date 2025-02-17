@@ -35,12 +35,12 @@ It wasn’t long before I narrowed it down to three programs in the US. Based on
 \+Co-offered with the Computer Science department  
 \-Limited number of electives
 
-1. **MS in Public Policy and Data Analytics (MSPPM-DA) at Carnegie Mellon University**  
+2. **MS in Public Policy and Data Analytics (MSPPM-DA) at Carnegie Mellon University**  
 \+Known for offering more financial aid  
 \+More flexible coursework  
 \-Co-offered with the School of Information Systems and Management rather than CMU’s highly reputed Computer Science department
 
-2. **MS in Data Science for Public Policy (DSPP) at Georgetown University**  
+3. **MS in Data Science for Public Policy (DSPP) at Georgetown University**  
 \+Small cohort  
 \-New program with no graduates yet  
 \-Most expensive of the three programs
